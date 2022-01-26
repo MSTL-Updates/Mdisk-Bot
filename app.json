@@ -12,9 +12,9 @@
     "custom",
     "stream"
   ],
-  "success_url": "https://telegram.me/",
-  "website": "https://github.com/HeimanPictures/HeimanPictures/",
-  "repository": "https://github.com/HeimanPictures/Mdisk-Bot",
+  "success_url": "https://telegram.me/STLbotz",
+  "website": "https://github.com/MSTL-Updates/",
+  "repository": "https://github.com/MSTL-Updates/Mdisk-Bot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string from botfather.",
